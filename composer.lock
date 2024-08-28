@@ -4,7 +4,11 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
+<<<<<<< HEAD
     "content-hash": "73bb13e81ab84f98e67b2e1a9b23044e",
+=======
+    "content-hash": "7e8c3c14ff33b199b4a0838993eb8423",
+>>>>>>> 61d65a011a90045c229ae69ee7a0a6f6ba7f8990
     "packages": [
         {
             "name": "brick/math",
@@ -1051,6 +1055,7 @@
             "time": "2023-12-03T19:50:20+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "inertiajs/inertia-laravel",
             "version": "v1.3.0",
             "source": {
@@ -1127,6 +1132,8 @@
             "time": "2024-06-13T01:25:09+00:00"
         },
         {
+=======
+>>>>>>> 61d65a011a90045c229ae69ee7a0a6f6ba7f8990
             "name": "laravel/framework",
             "version": "v11.21.0",
             "source": {
@@ -1391,6 +1398,7 @@
             "time": "2024-08-12T22:06:33+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "laravel/sanctum",
             "version": "v4.0.2",
             "source": {
@@ -1455,6 +1463,8 @@
             "time": "2024-04-10T19:39:58+00:00"
         },
         {
+=======
+>>>>>>> 61d65a011a90045c229ae69ee7a0a6f6ba7f8990
             "name": "laravel/serializable-closure",
             "version": "v1.3.4",
             "source": {
@@ -5550,6 +5560,7 @@
             "time": "2024-07-26T12:41:01+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "tightenco/ziggy",
             "version": "v2.3.0",
             "source": {
@@ -5620,6 +5631,8 @@
             "time": "2024-07-21T16:18:39+00:00"
         },
         {
+=======
+>>>>>>> 61d65a011a90045c229ae69ee7a0a6f6ba7f8990
             "name": "tijsverkoyen/css-to-inline-styles",
             "version": "v2.2.7",
             "source": {
@@ -6076,6 +6089,7 @@
             "time": "2020-07-09T08:09:16+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "laravel/breeze",
             "version": "v2.1.4",
             "source": {
@@ -6136,6 +6150,8 @@
             "time": "2024-08-12T22:06:50+00:00"
         },
         {
+=======
+>>>>>>> 61d65a011a90045c229ae69ee7a0a6f6ba7f8990
             "name": "laravel/pint",
             "version": "v1.17.2",
             "source": {
