@@ -1,10 +1,11 @@
-<?php
-
-<<<<<<< HEAD
 use App\Http\Controllers\ProfileController;
 use Illuminate\Foundation\Application;
 use Illuminate\Support\Facades\Route;
 use Inertia\Inertia;
+
+Route::get('/my-page', function () {
+    return Inertia::render('mypage');
+})->middleware(['auth']); // Adicione middleware se necessário
 
 Route::get('/', function () {
     return Inertia::render('Welcome', [
@@ -26,10 +27,3 @@ Route::middleware('auth')->group(function () {
 });
 
 require __DIR__.'/auth.php';
-=======
-use Illuminate\Support\Facades\Route;
-
-Route::get('/', function () {
-    return view('welcome');
-});
->>>>>>> 61d65a011a90045c229ae69ee7a0a6f6ba7f8990
